@@ -1,0 +1,17 @@
+{
+  "neo4j": [
+    {
+      "url": "neo4j-1"
+    },
+    {
+      "url": "neo4j-2"
+    },
+    {
+      "url": "neo4j-3"
+    }
+  ],
+  "timers": {
+    "avail": 10000,
+    "backupFreq": 3600000
+  }
+}
